@@ -1,0 +1,13 @@
+C:\Users\ph\source\Repos\SendgridEmailDemo\bin\Debug\SendgridEmailDemo.exe.config
+C:\Users\ph\source\Repos\SendgridEmailDemo\bin\Debug\SendgridEmailDemo.exe
+C:\Users\ph\source\Repos\SendgridEmailDemo\bin\Debug\SendgridEmailDemo.pdb
+C:\Users\ph\source\Repos\SendgridEmailDemo\obj\Debug\SendgridEmailDemo.csprojAssemblyReference.cache
+C:\Users\ph\source\Repos\SendgridEmailDemo\obj\Debug\SendgridEmailDemo.exe
+C:\Users\ph\source\Repos\SendgridEmailDemo\obj\Debug\SendgridEmailDemo.pdb
+C:\Users\ph\source\Repos\SendgridEmailDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ph\source\Repos\SendgridEmailDemo\bin\Debug\SendGrid.dll
+C:\Users\ph\source\Repos\SendgridEmailDemo\bin\Debug\StarkbankEcdsa.dll
+C:\Users\ph\source\Repos\SendgridEmailDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ph\source\Repos\SendgridEmailDemo\bin\Debug\SendGrid.pdb
+C:\Users\ph\source\Repos\SendgridEmailDemo\bin\Debug\SendGrid.xml
+C:\Users\ph\source\Repos\SendgridEmailDemo\obj\Debug\SendgridEmailDemo.csproj.CopyComplete
