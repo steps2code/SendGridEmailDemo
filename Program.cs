@@ -13,7 +13,7 @@ namespace SendgridEmailDemo
         static void Main(string[] args)
         {
             var apiKey = "<<Put your API Key>>";
-            string fromEmail = "<<Put your from email ID>>"; string toEmail = "<<Put your from email ID>>";
+            string fromEmail = "<<Put your from email ID>>"; string toEmail = "<<Put your to email ID>>";
             var response = EmailService.SendEmail(apiKey,fromEmail,toEmail);
             Response result = response.Result;
             if (result.StatusCode == System.Net.HttpStatusCode.Accepted)
